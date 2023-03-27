@@ -16,14 +16,15 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ## How to run the project?
 
-1. Clone or download this repository to your local machine.
+1. Clone or download this repository to your local machine. https://github.com/furasm/CapstoneMovieRecommend
 2. Install all the libraries mentioned in the [requirements.txt] file with the command `pip install -r requirements.txt`
 3. Run the commands from libraries.txt on python console.
-4. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
-5. Replace YOUR_API_KEY in **both** the places (line no. 15 and 29) of `static/recommend.js` file and hit save.
-6. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
-7. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
-8. The project is ready!
+4. Click this link and download this credits.csv dataset. Then add it to the main folder of "CapstoneMovieRecommend". https://drive.google.com/file/d/1UoCfkGSxWuAzYxZAjOqtJCwxMVCJ2o9b/view?usp=share_link
+5. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
+6. Replace YOUR_API_KEY in **both** the places (line no. 15 and 29) of `static/recommend.js` file and hit save.
+7. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
+8. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
+9. The project is ready!
 
 
 ### Sources of the datasets 
