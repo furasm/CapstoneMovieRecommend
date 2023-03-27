@@ -1,0 +1,8 @@
+# run this commands to install required libraries
+
+
+pip install lxml
+pip install bs4
+pip install flask
+pip install requests
+pip install nltk
